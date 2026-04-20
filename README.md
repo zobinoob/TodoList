@@ -1,4 +1,4 @@
-## 📌 Todo List Web App
+## Todo List Web App
 
 This is a simple and interactive **Todo List Web Application** built using **HTML, CSS, and JavaScript**. The application allows users to efficiently manage their daily tasks through a clean and user-friendly interface.
 
@@ -8,7 +8,7 @@ The project focuses on demonstrating core frontend development concepts such as 
 
 ---
 
-### ✨ Features
+### Features
 
 * Add new tasks
 * Mark tasks as completed
@@ -18,7 +18,7 @@ The project focuses on demonstrating core frontend development concepts such as 
 
 ---
 
-### 🛠️ Technologies Used
+### Technologies Used
 
 * HTML
 * CSS
@@ -30,7 +30,7 @@ If you want something slightly stronger for **resume-level impact**, here’s a 
 
 ---
 
-## 📌 Todo List Web App
+## Todo List Web App
 
 Developed a dynamic Todo List web application using **HTML, CSS, and Vanilla JavaScript** to help users manage daily tasks efficiently. Implemented features such as task creation, deletion, and completion tracking, along with **local storage integration** to ensure data persistence across browser sessions.
 
