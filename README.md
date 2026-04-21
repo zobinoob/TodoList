@@ -23,15 +23,3 @@ The project focuses on demonstrating core frontend development concepts such as 
 * HTML
 * CSS
 * JavaScript (Vanilla JS)
-
----
-
-If you want something slightly stronger for **resume-level impact**, here’s a sharper version:
-
----
-
-## Todo List Web App
-
-Developed a dynamic Todo List web application using **HTML, CSS, and Vanilla JavaScript** to help users manage daily tasks efficiently. Implemented features such as task creation, deletion, and completion tracking, along with **local storage integration** to ensure data persistence across browser sessions.
-
-Focused on clean UI design and efficient **DOM manipulation** to deliver a responsive and seamless user experience.
